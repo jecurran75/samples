@@ -1,2 +1,2 @@
 # samples
-James Curran's Python Code work samples.
+These are a few simple python examples with no confidential information in them.
