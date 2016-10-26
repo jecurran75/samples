@@ -16,8 +16,8 @@ print "\n\nUsername: %s" % username
 password = getpass("CEC Password: ")
 
 #DHCP helper IPs that need to be searched for.
-IPv4Helper = "72.163.42.113"
-IPv6Helper = "2001:420:1080:3003::12".upper()
+IPv4Helper = "*REMOVED*"
+IPv6Helper = "*REMOVED*".upper()
 
 #Read the list of in-scope devices.
 print "\nImporting automation-candidates.txt\n"
